@@ -19,6 +19,7 @@ My research interests include:
 
 == Selected Publications (\* indicates corresponding author(s).)
 
+. Lei Huang, Tingyang Xu, Yang Yu, Peilin Zhao, Ka-Chun Wong\*, Hengtong Zhang\*. A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets, Submitted to Nature Communications. https://doi.org/10.1101/2023.01.28.526011
 . Lei Huang, Hengtong Zhang\*, Tingyang Xu, Ka-Chun Wong\*. MDM: Molecular Diffusion Model for 3D Molecule Generation. AAAI 2023.
 . Hengtong Zhang, Tianhang Zheng, Jing Gao, Chenglin Miao, Lu Su, Yaliang Li, Kui Ren. Data poisoning attack against knowledge graph embedding. IJCAI 2019.
 . Hengtong Zhang, Yaliang Li, Bolin Ding, Jing Gao. Practical data poisoning attack against next-item recommendation. WebConf 2020.
