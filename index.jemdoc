@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+=张恒通 (Hengtong Zhang)
+
+~~~
+{}{img_left}{bio.jpg}{alt text}{160}{160}{https://hengtongzhang.github.io}
+# Senior Researcher,\n 
+# [https://ai.tencent.com Tencent AI Lab],\n
+~~~
+
+== 联系方式 (Contact)
+
+Website: https:\/\/hengtongzhang.github.io
+
+Email: zhang.hengtong@outlook.com
+
+== 关于我 (Biography)
+
+我在北京邮电大学取得学士学位，在纽约州立大学布法罗分校取得硕士和博士学位。我的博士导师是[https://engineering.purdue.edu/~jinggao 高晶教授]。
+
+Dr. Zhang received the B.E. in Beijing University of Posts and Telecommunications (BUPT); M.S. and Ph.D. in State University of New York at Buffalo under the supervision of [https://engineering.purdue.edu/~jinggao Prof. Jing Gao].  
+
+== 研究方向 (Research)
+
+我的研究方向包括：
+- 人工智能安全
+- 人工智能驱动的科学研究
+
+Dr. Zhang's research interests include:
+- AI Security
+- AI for Science
+
+== 代表性论著 (Selected Publications)
+
+. Lei Huang, Tingyang Xu, Yang Yu, Peilin Zhao, Xingjian Chen, Jing Han, Zhi Xie, Hailong Li, Wenge Zhong, Ka-Chun Wong, Hengtong Zhang (Corresponding). A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets. Nature Communications Vol 15 Issue 1. 2024.
+. Lei Huang, Hengtong Zhang (Corresponding), Tingyang Xu, Ka-Chun Wong. MDM: Molecular Diffusion Model for 3D Molecule Generation. AAAI 2023.
+. Hengtong Zhang, Yaliang Li, Bolin Ding, Jing Gao. LOKI: A Practical Data Poisoning Attack Framework against Next Item Recommendations. TKDE 2023.
+. Hengtong Zhang, Changxin Tian, Yaliang Li, Lu Su, Ning Yang, Wayne Xin Zhao, Jing Gao. Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data. SIGKDD 2021.
+. Hengtong Zhang, Lu Su, Jing Gao. Data poisoning attacks against outcome interpretations of predictive models. SIGKDD 2021.
+. Hengtong Zhang, Yaliang Li, Bolin Ding, Jing Gao. Practical data poisoning attack against next-item recommendation. WebConf 2020.
+. Hengtong Zhang, Tianhang Zheng, Jing Gao, Chenglin Miao, Lu Su, Yaliang Li, Kui Ren. Data poisoning attack against knowledge graph embedding. IJCAI 2019.
+. Hengtong Zhang, Yaliang Li, Fenglong Ma, Jing Gao, Lu Su. Texttruth: an unsupervised approach to discover trustworthy information from multi-sourced text data. SIGKDD 2018.
+
+完整论著列表参见 [https://scholar.google.com/citations?user=J2ZH_McAAAAJ Google Scholar]
+
+Refer to [https://scholar.google.com/citations?user=J2ZH_McAAAAJ Google Scholar] for the full publication list.
+
+
+== 版权所有 (Copyright)
+
+Copyright \C 2023 Hengtong Zhang. All rights reserved.
